@@ -9,7 +9,7 @@ publish_mode: editorial_workflow
 # These lines should *not* be indented
 media_folder: "assets/upload" # Media files will be stored in the repo under static/images/uploads NEW_UPLOADS
 public_folder: "assets/images" # The src attribute for uploaded media will begin with /images/uploads  FORMER_PHOTOS
-logo_url: https://pdc-et.com/assets/images/logo/logo.png
+
 
 
 layout: blog
